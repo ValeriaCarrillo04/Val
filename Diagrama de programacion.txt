@@ -1,0 +1,9 @@
+Proceso Suma
+	escribir "hola esta es una calculadora"
+	escribir "dime el primer numero a sumar"
+	leer numeroA
+	Escribir "dime el segundo numero a sumar"
+	Leer numeroB
+	Resultado_suma<-NumeroA+numeroB
+	Escribir "resultado",resultado_suma
+FinProceso
